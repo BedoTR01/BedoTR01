@@ -22,7 +22,6 @@ Hİ My name is Bedirhan and I'm 13 years old.I live in Adana/Turkey.My plan is t
 <div align="center">
     <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt=".NET Core" align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <br>
     <br>
     <img alt="VS Code" align="center" src="https://img.shields.io/badge/VS Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
