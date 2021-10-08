@@ -30,8 +30,8 @@ Hİ My name is Bedirhan and I'm 13 years old.I live in Adana/Turkey.I'm started 
     
 <br><br><br>
 </div>
-
+<div align="center">
 <img src="https://media.giphy.com/media/pWhWtKdqwOAco/giphy.gif">
-
+</div>
 
 <h1 align="center">Thank you for looking at my profile.<img src="https://media.giphy.com/media/SY2hQpAMLnuxtgLT5C/giphy.gif" width="25px"></h1>
