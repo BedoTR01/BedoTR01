@@ -1,7 +1,7 @@
 <!-- github.com/arwellbk'den alınmıstır tsk Burka -->
 <h1 align="center">Hi there, I'm Bedirhan.<img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="25px"></h1>
 <p align="center" style="text-align: center; font-size: 20px;">
-Hİ My name is Bedirhan and I'm 13 years old.I live in Adana/Turkey.I'm started html.<br> </p>
+Hİ My name is Bedirhan and I'm 13 years old.I live in Adana/Turkey.My plan is to become a programmer,so I'm working hard<br> </p>
 
 
 <div>
