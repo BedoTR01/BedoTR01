@@ -12,7 +12,7 @@ Hİ My name is Bedirhan and I'm 13 years old.I live in Adana/Turkey.My plan is t
 <div align="center">
     <a href="https://discord.com/users/837724778478960640" target="_blank"><img src="https://shields.io/badge/Discord-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/BedoTR01" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="http://bedirhan.rf.gd/">
+    <a href="http://bedirhan.rf.gd/" target="https://static.tildacdn.com/tild3636-3339-4734-a435-633133366232/photo.png"></a>
 </div>
 
 <div>
