@@ -1,7 +1,7 @@
 <!-- github.com/arwellbk'den alınmıstır tsk Burka -->
 <h1 align="center">Hi there, I'm Bedirhan.<img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="25px"></h1>
 <p align="center" style="text-align: center; font-size: 20px;">
-Hİ My name is Bedirhan and I'm 13 years old.I live in Adana/Turkey.My plan is to become a programmer,so I'm working hard<br> </p>
+Hİ My name is Bedirhan and I'm 13 years old.I live in Adana/Turkey.I'm started html.<br> </p>
 
 
 <div>
@@ -13,6 +13,7 @@ Hİ My name is Bedirhan and I'm 13 years old.I live in Adana/Turkey.My plan is t
     <a href="https://discord.com/users/837724778478960640" target="_blank"><img src="https://shields.io/badge/Discord-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/BedoTR01" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="http://bedirhan.rf.gd/" target="https://static.tildacdn.com/tild3636-3339-4734-a435-633133366232/photo.png"></a>
+    
 </div>
 
 <div>
@@ -22,6 +23,7 @@ Hİ My name is Bedirhan and I'm 13 years old.I live in Adana/Turkey.My plan is t
 <div align="center">
     <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt=".NET Core" align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <br>
     <br>
     <img alt="VS Code" align="center" src="https://img.shields.io/badge/VS Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
