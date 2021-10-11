@@ -30,6 +30,8 @@ Hİ My name is Bedirhan and I'm 13 years old.I live in Adana/Turkey.I'm started 
     <img alt="GitHub" align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     
 <br><br><br>
-![Discord Statsus](https://lanyard-profile-readme.vercel.app/api/837724778478960640?bg=23283d&borderRadius=8px&hideDiscrim=true)
+<div>
+<img src="https://media.giphy.com/media/pWhWtKdqwOAco/giphy.gif">
+</div>
 
 <h1 align="center">Thank you for looking at my profile.<img src="https://media.giphy.com/media/SY2hQpAMLnuxtgLT5C/giphy.gif" width="25px"></h1>
